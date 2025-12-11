@@ -834,4 +834,4 @@ async def ratios(ctx, *, msg):
 
 
 # Run the bot
-bot.run('MTQzNTcxNjMyNjYzMDEwMTA2Mw.GtqeBX.gjP7qClE17dxSUOqyn-EkViHUMmbnHcSe2rsPM', log_handler=handler, log_level=logging.DEBUG)
+bot.run(token, log_handler=handler, log_level=logging.DEBUG)
